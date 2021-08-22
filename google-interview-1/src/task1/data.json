@@ -1,0 +1,58 @@
+[
+    {
+        "school": true,
+        "gym": false,
+        "office": false,
+        "store": true,
+        "cinema": false
+    },
+    {
+        "school": false,
+        "gym": false,
+        "office": false,
+        "store": false,
+        "cinema": false
+    },
+    {
+        "school": false,
+        "gym": true,
+        "office": true,
+        "store": false,
+        "cinema": true
+    },
+    {
+        "school": true,
+        "gym": true,
+        "office": false,
+        "store": false,
+        "cinema": true
+    },
+    {
+        "school": true,
+        "gym": false,
+        "office": false,
+        "store": false,
+        "cinema": true
+    },
+    {
+        "school": false,
+        "gym": false,
+        "office": false,
+        "store": true,
+        "cinema": true
+    },
+    {
+        "school": false,
+        "gym": true,
+        "office": true,
+        "store": false,
+        "cinema": false
+    },
+    {
+        "school": true,
+        "gym": true,
+        "office": false,
+        "store": false,
+        "cinema": true
+    }
+]
